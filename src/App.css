@@ -1,0 +1,7 @@
+.app{
+  display: flex;
+  gap: 126px;
+}
+.background{
+  background-color: blueviolet;
+}

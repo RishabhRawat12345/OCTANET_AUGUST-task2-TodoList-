@@ -1,0 +1,23 @@
+
+
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    font-family: 'Arial', sans-serif;
+    background-color:#ECFFE6
+  }
+  
+  *, *::before, *::after {
+    box-sizing: inherit;
+  }
+  
+  #root {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    padding: 20px;
+  }
+  
+  
